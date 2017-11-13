@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281013949762",
+    "firebase_url": "https://suicide-squad-wallpapers.firebaseio.com",
+    "project_id": "suicide-squad-wallpapers",
+    "storage_bucket": "suicide-squad-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281013949762:android:6bbddc3080612a6a",
+        "android_client_info": {
+          "package_name": "com.vaidoos.guitorio.a11suicidesquadwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281013949762-vg4bqned7q81659l24du9m58jhfodmre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaidoos.guitorio.a11suicidesquadwallpapers",
+            "certificate_hash": "15b7bc45081b1062a4cec7f7bb8ac184a9a51b4c"
+          }
+        },
+        {
+          "client_id": "281013949762-ae2g08b8rtdcc7d9kbgut4u5ajm7bapo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHU0oz2tf-NLnWO581FM8hkabIH_e48w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281013949762-ae2g08b8rtdcc7d9kbgut4u5ajm7bapo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

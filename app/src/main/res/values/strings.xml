@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">11 Suicide Squad Wallpapers</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_two_fullscreen">TwoFullscreenActivity</string>
+
+    <string name="title_activity_three_fullscreen">ThreeFullscreenActivity</string>
+
+    <string name="title_activity_four_fullscreen">FourFullscreenActivity</string>
+
+    <string name="title_activity_five_fullscreen">FiveFullscreenActivity</string>
+
+    <string name="title_activity_six_fullscreen">SixFullscreenActivity</string>
+
+    <string name="title_activity_seven_fullscreen">SevenFullscreenActivity</string>
+
+    <string name="title_activity_eight_fullscreen">EightFullscreenActivity</string>
+
+    <string name="title_activity_nine_fullscreen">NineFullscreenActivity</string>
+
+    <string name="title_activity_ten_fullscreen">TenFullscreenActivity</string>
+
+    <string name="title_activity_eleven_fullscreen">ElevenFullscreenActivity</string>
+
+    <string name="title_actionbar_one">The Witch</string>
+    <string name="title_actionbar_two">Harley Quinn</string>
+    <string name="title_actionbar_three">The Joker</string>
+    <string name="title_actionbar_four">Katana</string>
+    <string name="title_actionbar_five">Harley Quinn</string>
+    <string name="title_actionbar_six">The Witch</string>
+    <string name="title_actionbar_seven">The Joker</string>
+    <string name="title_actionbar_eight">The Joker</string>
+    <string name="title_actionbar_nine">The Witch</string>
+    <string name="title_actionbar_ten">The Three</string>
+    <string name="title_actionbar_eleven">Harley Quinn</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-5608607730294297/1413901753</string>
+
+</resources>

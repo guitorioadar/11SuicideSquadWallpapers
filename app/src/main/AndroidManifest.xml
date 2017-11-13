@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vaidoos.guitorio.a11suicidesquadwallpapers">
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".OneFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TwoFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_two_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".ThreeFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_three_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".FourFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_four_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".FiveFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_five_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".SixFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_six_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".SevenFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_seven_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".EightFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_eight_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".NineFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nine_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".TenFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_ten_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".ElevenFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_eleven_fullscreen"
+            android:theme="@style/FullscreenTheme"></activity>
+    </application>
+
+</manifest>
